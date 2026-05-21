@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Remove-Item \"C:\\\\Users\\\\glbonto\\\\OneDrive - Five9\\\\Desktop\\\\Apps\\\\RK Energized\\\\services.html\" -ErrorAction SilentlyContinue)",
+      "Bash(Remove-Item \"C:\\\\Users\\\\glbonto\\\\OneDrive - Five9\\\\Desktop\\\\Apps\\\\RK Energized\\\\projects.html\" -ErrorAction SilentlyContinue)",
+      "Bash(Write-Host \"Old pages removed\")"
+    ]
+  }
+}
